@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, Saya Joy Febrian 👋
+# Halo, Saya Joy Febrian
 ### Full-Stack Web Developer & Tech Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)

@@ -20,8 +20,6 @@
 
 ---
 
-### 🎬 Favorite Films on Letterboxd
-
 <p align="center">
   <a href="https://letterboxd.com/fylucen/film/star-wars/">
     <img src="https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" width="130" alt="Star Wars" />

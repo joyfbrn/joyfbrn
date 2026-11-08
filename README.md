@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyfbrn)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/fylucen/)
 
 ---
 
@@ -17,16 +18,23 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-10%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Tools-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
 ---
 
-### 📊 Statistik GitHub
+### 🎬 Favorite Films on Letterboxd
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=joyfbrn&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik Joy" />
-  <br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=joyfbrn&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://letterboxd.com/fylucen/film/star-wars/">
+    <img src="https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" width="130" alt="Star Wars" />
+  </a>
+  <a href="https://letterboxd.com/film/the-hunger-games/">
+    <img src="https://image.tmdb.org/t/p/w500/yDbyVT8tTOgXUrUXNkHEUqbxb1K.jpg" width="130" alt="The Hunger Games" />
+  </a>
+  <a href="https://letterboxd.com/film/pirates-of-the-caribbean-dead-men-tell-no-tales/">
+    <img src="https://image.tmdb.org/t/p/w500/7C921eWK06n12c1miRXnYoEu5Yv.jpg" width="130" alt="Pirates of the Caribbean: Dead Men Tell No Tales" />
+  </a>
+  <a href="https://letterboxd.com/fylucen/film/cars/">
+    <img src="https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg" width="130" alt="Cars" />
+  </a>
 </p>
 
 </div>

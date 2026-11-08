@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo, Saya Joy Febrian
-### Full-Stack Web Developer & Tech Enthusiast
+### Full-Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyfbrn)
@@ -18,14 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-Tools-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-| Bahasa / Tools | Logo | Persentase | Progress Bar |
-| :--- | :---: | :---: | :--- |
-| **PHP** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="22" height="22" alt="PHP" /> | `40%` | `████████░░░░░░░░░░░░` |
-| **TypeScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" height="22" alt="TypeScript" /> | `25%` | `█████░░░░░░░░░░░░░░░` |
-| **React** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22" height="22" alt="React" /> | `15%` | `███░░░░░░░░░░░░░░░░░` |
-| **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="22" height="22" alt="MySQL" /> | `10%` | `██░░░░░░░░░░░░░░░░░░` |
-| **Tailwind CSS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="22" height="22" alt="Tailwind CSS" /> | `10%` | `██░░░░░░░░░░░░░░░░░░` |
 
 ---
 
